@@ -1,0 +1,85 @@
+public/about/index.html
+  s_8ff75b29ba1a2e::t_46a780f60be28c 1,19
+public/acceptable-use/index.html
+  s_8ff75b29ba1a2e::t_e19324baf3d7a3 1,19
+public/app-policy/index.html
+  s_8ff75b29ba1a2e::t_ceefc5dc3bf47b 1,19
+public/assets/chunks/chunk-CpcCjBnZ.js
+  s_8ff75b29ba1a2e::t_ef9efbcc1d9e4e 1,7-9,31
+public/assets/chunks/chunk-D3QWqgx3.js
+  s_8ff75b29ba1a2e::t_29d5bdccd5da08 1
+public/assets/chunks/chunk-Dmm8CNkM.js
+  s_8ff75b29ba1a2e::t_d73b09e6c2ea24 1
+public/assets/chunks/chunk-PZUCbeQ1.js
+  s_8ff75b29ba1a2e::t_7fe149eb1bf638 1
+public/assets/entries/entry-server-routing.DXIJiPs3.js
+  s_8ff75b29ba1a2e::t_7fef876ad94f8c 1,3
+public/assets/entries/pages_about.DIZaq4la.js
+  s_8ff75b29ba1a2e::t_2048eb670c097e 1
+public/assets/entries/pages_acceptable-use.B3OLAZ02.js
+  s_8ff75b29ba1a2e::t_068af94647ab77 1
+public/assets/entries/pages_app-policy.A7hlixlE.js
+  s_8ff75b29ba1a2e::t_a5d201337319f0 1
+public/assets/entries/pages_contact.DpY-uUDe.js
+  s_8ff75b29ba1a2e::t_eb0e3aa4041d1a 1
+public/assets/entries/pages_contribute.BDei1-06.js
+  s_8ff75b29ba1a2e::t_2ccd25ba992e51 1,143,175
+public/assets/entries/pages_cookie-policy.D22M4Kns.js
+  s_8ff75b29ba1a2e::t_211f4bf99e81c4 1
+public/assets/entries/pages_deploy.DKs7Acyd.js
+  s_8ff75b29ba1a2e::t_80b1b1fe576dcb 1,27
+public/assets/entries/pages_discord.B6cwLNH1.js
+  s_8ff75b29ba1a2e::t_403296aa6b2b61 1
+public/assets/entries/pages_index.twFVhbVY.js
+  s_8ff75b29ba1a2e::t_fcf7366a463acd 1
+public/assets/entries/pages_licensing.B_rA3O5h.js
+  s_8ff75b29ba1a2e::t_c8e10fc080c62c 1
+public/assets/entries/pages_parcy-preview.CA2WR-Sz.js
+  s_8ff75b29ba1a2e::t_fc3e9d66421122 1
+public/assets/entries/pages_pricing.CZ8SjVJY.js
+  s_8ff75b29ba1a2e::t_6c574e9a162bf8 1
+public/assets/entries/pages_privacy-policy.BkZXY36j.js
+  s_8ff75b29ba1a2e::t_15e301de32e5f7 1
+public/assets/entries/pages_terms.ClEIBxRU.js
+  s_8ff75b29ba1a2e::t_0d2ac475f78f7c 1
+public/assets/static/app_generated_index-6937cd5a.CrLSIP41.css
+  s_8ff75b29ba1a2e::t_9dfd82d00f3ba8 1
+public/contact/index.html
+  s_8ff75b29ba1a2e::t_2000e5fdc35c9f 1,19
+public/contribute/index.html
+  s_8ff75b29ba1a2e::t_e12a1be6764ce0 1,28
+public/cookie-policy/index.html
+  s_8ff75b29ba1a2e::t_a3647b8d58698c 1,19
+public/deploy/index.html
+  s_8ff75b29ba1a2e::t_b49b2972785dc9 1,11,18
+public/discord/index.html
+  s_8ff75b29ba1a2e::t_c2730fd4f04980 1,12
+public/index.html
+  s_8ff75b29ba1a2e::t_a868ac3d637f80 1,19
+public/licensing/index.html
+  s_8ff75b29ba1a2e::t_dc66265501de82 1,19
+public/parcy-preview/index.html
+  s_8ff75b29ba1a2e::t_c21e246d8c47a2 1,210
+public/pricing/index.html
+  s_8ff75b29ba1a2e::t_09c88af8e1daaa 1,19
+public/privacy-policy/index.html
+  s_8ff75b29ba1a2e::t_850caff469d00c 1,19
+public/terms/index.html
+  s_8ff75b29ba1a2e::t_e9251a51fe60b7 1,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c1b0424f828effe9e3f8e70753cd5f24759a41ef",
+  "prompts": {},
+  "sessions": {
+    "s_8ff75b29ba1a2e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a4ff-cfe8-7411-b93d-92ec6970bed4",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
