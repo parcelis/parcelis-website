@@ -18,5 +18,11 @@
     }
   ],
   "workers_dev": true,
-  "preview_urls": true
+  "preview_urls": true,
+  "observability": {
+    "logs": {
+      "enabled": false,
+      "invocation_logs": true
+    }
+  }
 }
