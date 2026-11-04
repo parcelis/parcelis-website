@@ -1,0 +1,24 @@
+{
+  "folders": [
+    "backgrounds",
+    "logo",
+    "parcy",
+    "parcy/backgrounds"
+  ],
+  "files": {
+    "favicon_LDtRsJwlwtBvn0bcvnvfD.svg": "logo/favicon_LDtRsJwlwtBvn0bcvnvfD.svg",
+    "hj-project-C0cP37W3Cz8-unsplash_BzrLxlw8MsNF8EJiUG5Fj.png": "images/hj-project-C0cP37W3Cz8-unsplash_BzrLxlw8MsNF8EJiUG5Fj.png",
+    "marco-b5WkaYagJ98-unsplash_DRoFptooqR4OPm7HAmpYI.svg": "images/marco-b5WkaYagJ98-unsplash_DRoFptooqR4OPm7HAmpYI.svg",
+    "parcelis-background-dark_TC4cwzdEDoamPIQn1Yo8F.svg": "backgrounds/parcelis-background-dark_TC4cwzdEDoamPIQn1Yo8F.svg",
+    "parcelis-background-light_tJxqP5TXdPIRwlb10ww3P.svg": "backgrounds/parcelis-background-light_tJxqP5TXdPIRwlb10ww3P.svg",
+    "parcelis-fullmark-dark_7kQdTVmCcLnqp9Yf8Ga7r.svg": "logo/parcelis-fullmark-dark_7kQdTVmCcLnqp9Yf8Ga7r.svg",
+    "parcelis-fullmark-light_uo5CKPM6pk1GvDNH92lEN.svg": "logo/parcelis-fullmark-light_uo5CKPM6pk1GvDNH92lEN.svg",
+    "parcelis-parcels-reveal_copy_qsWyeWtl3MJ99LfwtA8kW.svg": "logo/parcelis-parcels-reveal_copy_qsWyeWtl3MJ99LfwtA8kW.svg",
+    "parcy-caricature-discord_4pRr8rE9ZtPnsChJU7eCC.svg": "parcy/parcy-caricature-discord_4pRr8rE9ZtPnsChJU7eCC.svg",
+    "parcy-hd-greeting_gxYqo3IXO_U07378HUhbb.webp": "parcy/parcy-hd-greeting_gxYqo3IXO_U07378HUhbb.webp",
+    "parcy-hd-idle_L5rp2sgoHXvYhh5bm24En.webp": "parcy/parcy-hd-idle_L5rp2sgoHXvYhh5bm24En.webp",
+    "parcy-hd-integration-guide_RmzE7xML31kMglovWgSPJ.md": "parcy/parcy-hd-integration-guide_RmzE7xML31kMglovWgSPJ.md",
+    "parcy-hd-thinking_2VvxNmkZp5ToxobIZUWuU.webp": "parcy/parcy-hd-thinking_2VvxNmkZp5ToxobIZUWuU.webp",
+    "parcy-hd-vector_K2pQ8F9l0kIrX92GRU_ZX.svg": "parcy/parcy-hd-vector_K2pQ8F9l0kIrX92GRU_ZX.svg"
+  }
+}

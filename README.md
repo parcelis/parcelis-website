@@ -4,7 +4,11 @@ Exported Webstudio website with a Cloudflare Worker for password protection and 
 
 ## Project layout
 
-- public/: exported HTML, JavaScript, CSS, images, and other website assets.
+- public/: exported HTML, JavaScript, CSS, and other website assets.
+- public/assets/backgrounds/, logo/, and parcy/: asset folders mirrored from Webstudio.
+- public/assets/images/: images that are unfiled in Webstudio.
+- asset-folders.json: exported filenames mapped to their organized paths.
+- scripts/organize-assets.mjs: moves assets and updates generated references.
 - worker.mjs: password authentication, managed form routing, and asset serving.
 - contact-form.mjs: Webstudio managed form handler forwarding to the existing Activepieces webhook.
 - wrangler.jsonc: deployment settings for preview.parcelis.dev.
@@ -26,7 +30,13 @@ Deploying only public/ to a static host, including GitHub Pages, will not provid
 
 ## Updating the website export
 
-Replace only public/ with a fresh Webstudio static export. Keep the Worker code and deployment configuration, then run the checks and deploy again. If a form action or webhook changes in Webstudio, update the matching server configuration and Cloudflare secret too.
+Replace only public/ with a fresh Webstudio static export. Run npm run organize:assets to restore the folder layout and update references. Deployment also runs this step automatically. Keep the Worker code and deployment configuration, then run the checks and deploy again.
+
+When folders or assets change in Webstudio, refresh the mapping from the synchronized project bundle:
+
+    npm run organize:assets -- --metadata /path/to/export/.webstudio/data.json
+
+The organizer accepts Webstudio snapshot JSON too. It preserves nested folders, keeps empty Webstudio folders with .gitkeep, and leaves generated chunks, entries, and styles in their existing build folders. Repeated runs make no additional changes. If a form action or webhook changes in Webstudio, update the matching server configuration and Cloudflare secret too.
 
 ## GitHub
 

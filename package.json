@@ -3,9 +3,11 @@
   "type": "module",
   "scripts": {
     "deploy": "wrangler deploy --keep-vars",
-    "check": "node --check worker.mjs && node --check contact-form.mjs",
-    "test": "node --test test/contact-form.test.mjs",
-    "dev": "wrangler dev"
+    "check": "node --check worker.mjs && node --check contact-form.mjs && node --check scripts/organize-assets.mjs",
+    "test": "node --test test/*.test.mjs",
+    "dev": "wrangler dev",
+    "organize:assets": "node scripts/organize-assets.mjs",
+    "predeploy": "npm run organize:assets"
   },
   "dependencies": {
     "@webstudio-is/sdk": "0.308.0"
