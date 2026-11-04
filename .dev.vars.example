@@ -1,0 +1,2 @@
+PASSWORD=replace-for-local-development
+CONTACT_WEBHOOK_URL=https://cloud.activepieces.com/api/v1/webhooks/replace-with-your-webhook
