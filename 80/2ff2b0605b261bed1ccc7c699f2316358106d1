@@ -1,0 +1,77 @@
+public/about/index.html
+  s_a8f259c39b278d::t_1b289da032f2e3 1,11-81,89
+public/assets/chunks/chunk-CwWZnofD.js
+  s_a8f259c39b278d::t_8e7ef0eeaa7814 1-2,36,38,41
+public/assets/chunks/chunk-Z3b5S2GW.js
+  s_a8f259c39b278d::t_86db4918983047 1
+public/assets/entries/entry-server-routing.BIJowYv4.js
+  s_a8f259c39b278d::t_14bd2e113d8167 1,3
+public/assets/entries/pages_about.AUlUeFY1.js
+  s_a8f259c39b278d::t_a66ccfcbae7124 1-2,28,35-105
+public/assets/entries/pages_contact.OkzwebVU.js
+  s_a8f259c39b278d::t_0c73759d67df72 1-2,28,35-105
+public/assets/entries/pages_contribute.OXl9V3P0.js
+  s_a8f259c39b278d::t_e241ad6360705f 1,5,16,55,57,59,68,77,86,90-91,101,104,108-111,113,117,120-123,125-126,128-129,131,133,135,142-144,146,148-149,153-154,156,158,160,165,167,175-177,179,181,184-186,191-192,209,211,213,218,220,227,229-233,264-265,280,370,373,399,406-476
+public/assets/entries/pages_deploy.DRyACv_y.js
+  s_a8f259c39b278d::t_2e7444c5aed17f 1,27,34-104
+public/assets/entries/pages_index.CequbwRQ.js
+  s_a8f259c39b278d::t_64288874dc4e92 1-2,28,35-105
+public/assets/entries/pages_legal_acceptable-use.Qjp0QgoL.js
+  s_a8f259c39b278d::t_1c993238b1233c 1-2,28,42,49-119
+public/assets/entries/pages_legal_app-policy.DWhnAjy1.js
+  s_a8f259c39b278d::t_65608ec609540a 1-2,28,42,49-119
+public/assets/entries/pages_legal_cookie-policy.CFIt_quK.js
+  s_a8f259c39b278d::t_49907e16121baa 1-2,28,42,49-119
+public/assets/entries/pages_legal_privacy-policy.C1-t9vQo.js
+  s_a8f259c39b278d::t_990b5a75afb7ce 1-2,28,35-105
+public/assets/entries/pages_legal_terms.DFoZL7zW.js
+  s_a8f259c39b278d::t_c577299813bd70 1-2,28,42,49-119
+public/assets/entries/pages_licensing.P6Xo4-VJ.js
+  s_a8f259c39b278d::t_e654436190391d 1-2,28,35-105
+public/assets/entries/pages_pricing.C3LbPAXG.js
+  s_a8f259c39b278d::t_e6ca4388900268 1-2,28,35-105
+public/assets/static/app_generated_index-6937cd5a.C33cWzxS.css
+  s_a8f259c39b278d::t_5a1cf4d520b2d2 1
+public/contact/index.html
+  s_a8f259c39b278d::t_2e140fc1af93dd 1,11-81,89
+public/contribute/index.html
+  s_a8f259c39b278d::t_5f2f49de8384c1 1,11-81,98
+public/deploy/index.html
+  s_a8f259c39b278d::t_1541923e301d34 1,11-81,88
+public/discord/index.html
+  s_a8f259c39b278d::t_1ffe4828b731c8 1,11-82
+public/index.html
+  s_a8f259c39b278d::t_51e44ff66ddc02 1,11-81,89
+public/legal/acceptable-use/index.html
+  s_a8f259c39b278d::t_e02c9df90dea9e 1,11-82,89
+public/legal/app-policy/index.html
+  s_a8f259c39b278d::t_e471d6025802ff 1,11-82,89
+public/legal/cookie-policy/index.html
+  s_a8f259c39b278d::t_6cedb217f3a157 1,11-82,89
+public/legal/privacy-policy/index.html
+  s_a8f259c39b278d::t_32ea9a54e1ad5e 1,11-81,89
+public/legal/terms/index.html
+  s_a8f259c39b278d::t_325b578c0f53ac 1,11-81,89
+public/licensing/index.html
+  s_a8f259c39b278d::t_6f8dc3798ffc52 1,11-81,89
+public/parcy/parcy-preview/index.html
+  s_a8f259c39b278d::t_09ad798fc43737 1,11-81,280
+public/pricing/index.html
+  s_a8f259c39b278d::t_a6efa2e2c6aa8a 1,11-81,89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "802ff2b0605b261bed1ccc7c699f2316358106d1",
+  "prompts": {},
+  "sessions": {
+    "s_a8f259c39b278d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19049-5409-73b3-bb96-1ca33b78d751",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
