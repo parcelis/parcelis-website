@@ -1,0 +1,77 @@
+public/about/index.html
+  s_a8f259c39b278d::t_95b95826c7530c 1,13,19,50,53-62,82,88,94,101
+public/assets/chunks/chunk-BH_5xrCy.js
+  s_a8f259c39b278d::t_3862d8dd369464 1
+public/assets/chunks/chunk-D3QWqgx3.js
+  s_a8f259c39b278d::t_ad07345df60252 1-2,36,38,41
+public/assets/entries/entry-server-routing.DvBMhyHm.js
+  s_a8f259c39b278d::t_1eea56d22e29ce 1,3
+public/assets/entries/pages_about.D7vGQnrN.js
+  s_a8f259c39b278d::t_887a113ea8c3a0 1-2,28,35,37,43,74,77-86,106,112,117
+public/assets/entries/pages_contact.B98qNPf_.js
+  s_a8f259c39b278d::t_852e4a0ffb01f7 1-2,28,35,37,43,74,77-86,106,112,117
+public/assets/entries/pages_contribute.lUgqbHN6.js
+  s_a8f259c39b278d::t_f224348c756bcc 1,5,16,55,57,59,68,77,86,90-91,101,104,108-111,113,117,120-121,123,125,129,131,133,135,142-144,146,148-149,153-154,158,160,165,167,175-177,179,181,184-186,191-192,211,213,218,220,227,229-233,264-265,280,370,373,399,406,408,414,445,448-457,477,483,488
+public/assets/entries/pages_deploy.Bt21ZUHM.js
+  s_a8f259c39b278d::t_2882ccc3247ca6 1,27,34,36,42,73,76-85,105,111,116
+public/assets/entries/pages_index.xOzfyOpI.js
+  s_a8f259c39b278d::t_bdbb53a9dbe6d1 1-2,28,35,37,43,74,77-86,106,112,117
+public/assets/entries/pages_legal_acceptable-use.B8LoHvKc.js
+  s_a8f259c39b278d::t_7954b93fd61c0e 1-2,28,42,49,51,57,88,91-100,120,126,131
+public/assets/entries/pages_legal_app-policy.CQfOicaO.js
+  s_a8f259c39b278d::t_3c7b2f17358b6b 1-2,28,42,49,51,57,88,91-100,120,126,131
+public/assets/entries/pages_legal_cookie-policy.DALJxd5I.js
+  s_a8f259c39b278d::t_1fbf3fc4bc1f88 1-2,28,42,49,51,57,88,91-100,120,126,131
+public/assets/entries/pages_legal_privacy-policy.6PzI2cRO.js
+  s_a8f259c39b278d::t_18b5e0c9cb4802 1-2,28,35,37,43,74,77-86,106,112,117
+public/assets/entries/pages_legal_terms.Xlz8WyZM.js
+  s_a8f259c39b278d::t_0c58322148f5ca 1-2,28,42,49,51,57,88,91-100,120,126,131
+public/assets/entries/pages_licensing.Dyctzs1n.js
+  s_a8f259c39b278d::t_0ab2d73dfb1489 1-2,28,35,37,43,74,77-86,106,112,117
+public/assets/entries/pages_pricing.guh5hvYc.js
+  s_a8f259c39b278d::t_6210c6bf060009 1-2,28,35,37,43,74,77-86,106,112,117
+public/assets/static/app_generated_index-6937cd5a.Cp9VJnjx.css
+  s_a8f259c39b278d::t_163f3255878d29 1
+public/contact/index.html
+  s_a8f259c39b278d::t_a0a14fd837463d 1,13,19,50,53-62,82,88,94,101
+public/contribute/index.html
+  s_a8f259c39b278d::t_f922682928cfb6 1,13,19,50,53-62,82,88,103,110
+public/deploy/index.html
+  s_a8f259c39b278d::t_24ebe20087b1ac 1,13,19,50,53-62,82,88,93,100
+public/discord/index.html
+  s_a8f259c39b278d::t_5793e53643b437 1,13,19,50,53-62,82,88,93-94
+public/index.html
+  s_a8f259c39b278d::t_7537920971e3dc 1,13,19,50,53-62,82,88,94,101
+public/legal/acceptable-use/index.html
+  s_a8f259c39b278d::t_8de2d071e0346d 1,13,19,50,53-62,82,88,94,101
+public/legal/app-policy/index.html
+  s_a8f259c39b278d::t_095c5cd67cfb9f 1,13,19,50,53-62,82,88,94,101
+public/legal/cookie-policy/index.html
+  s_a8f259c39b278d::t_d26f29323c9794 1,13,19,50,53-62,82,88,94,101
+public/legal/privacy-policy/index.html
+  s_a8f259c39b278d::t_0b944e7e705044 1,13,19,50,53-62,82,88,94,101
+public/legal/terms/index.html
+  s_a8f259c39b278d::t_433230dc662163 1,13,19,50,53-62,82,88,94,101
+public/licensing/index.html
+  s_a8f259c39b278d::t_bc91ccf19db6bd 1,13,19,50,53-62,82,88,94,101
+public/parcy/parcy-preview/index.html
+  s_a8f259c39b278d::t_87c2d2ac0c2434 1,13,19,50,53-62,82,88,292
+public/pricing/index.html
+  s_a8f259c39b278d::t_105e590d7448e9 1,13,19,50,53-62,82,88,94,101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "01db091b5817e66485987ebf26fe0741e36600bf",
+  "prompts": {},
+  "sessions": {
+    "s_a8f259c39b278d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19049-5409-73b3-bb96-1ca33b78d751",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
