@@ -1,0 +1,75 @@
+public/about/index.html
+  s_a8f259c39b278d::t_44c2d2de530c31 1,94,101
+public/assets/chunks/chunk-BP8ZZGsw.js
+  s_a8f259c39b278d::t_50839f99f3b108 1
+public/assets/entries/entry-server-routing.B8E_FalJ.js
+  s_a8f259c39b278d::t_6d12bbaeec895e 1,3
+public/assets/entries/pages_about.DV4p5tWT.js
+  s_a8f259c39b278d::t_118471ffa72d43 2
+public/assets/entries/pages_contact.CyvxY80b.js
+  s_a8f259c39b278d::t_406fd081937bb0 2
+public/assets/entries/pages_contribute.BwJaTpxi.js
+  s_a8f259c39b278d::t_4d4e3399db61d8 373
+public/assets/entries/pages_deploy.DuFGKo8q.js
+  s_a8f259c39b278d::t_a22720c82b7642 1
+public/assets/entries/pages_index.FBhBQSse.js
+  s_a8f259c39b278d::t_ab845c36a1fb56 2
+public/assets/entries/pages_legal_acceptable-use.COHyBr9R.js
+  s_a8f259c39b278d::t_c94abba268990f 2
+public/assets/entries/pages_legal_app-policy.CzLhLQid.js
+  s_a8f259c39b278d::t_4ea654b03c0717 2
+public/assets/entries/pages_legal_cookie-policy.Cgh7GBCG.js
+  s_a8f259c39b278d::t_6d5e7914e72641 2
+public/assets/entries/pages_legal_privacy-policy.Brt1CKOf.js
+  s_a8f259c39b278d::t_7212e69a81a9f1 2
+public/assets/entries/pages_legal_terms.B1h14lWU.js
+  s_a8f259c39b278d::t_32abda57683070 2
+public/assets/entries/pages_licensing.BimsQftP.js
+  s_a8f259c39b278d::t_c1b9642338b540 2
+public/assets/entries/pages_pricing.BtXNXDRn.js
+  s_a8f259c39b278d::t_bd63b15cfd91cb 2
+public/assets/static/app_generated_index-6937cd5a.2mq5k0KF.css
+  s_a8f259c39b278d::t_4afce880765a69 1
+public/contact/index.html
+  s_a8f259c39b278d::t_40833907c0f424 1,94,101
+public/contribute/index.html
+  s_a8f259c39b278d::t_f4a5078c2bc833 1,93,110
+public/deploy/index.html
+  s_a8f259c39b278d::t_615f21345bc5c6 1,93,100
+public/discord/index.html
+  s_a8f259c39b278d::t_c7e90c3a67e20d 1,93-94
+public/index.html
+  s_a8f259c39b278d::t_e41025d29016d0 1,94,101
+public/legal/acceptable-use/index.html
+  s_a8f259c39b278d::t_8c51e4b28e9809 1,94,101
+public/legal/app-policy/index.html
+  s_a8f259c39b278d::t_18a6d2b8dfc4d4 1,94,101
+public/legal/cookie-policy/index.html
+  s_a8f259c39b278d::t_a83ebcf5b27d83 1,94,101
+public/legal/privacy-policy/index.html
+  s_a8f259c39b278d::t_76e84805e24a2d 1,94,101
+public/legal/terms/index.html
+  s_a8f259c39b278d::t_672d42a831f859 1,94,101
+public/licensing/index.html
+  s_a8f259c39b278d::t_675257ede03acb 1,94,101
+public/parcy/parcy-preview/index.html
+  s_a8f259c39b278d::t_fee5e4f6937ec7 1,292
+public/pricing/index.html
+  s_a8f259c39b278d::t_ce528bc2fd5bbb 1,94,101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fda10230eb98c853eb3f13331aba817b8fba1c0c",
+  "prompts": {},
+  "sessions": {
+    "s_a8f259c39b278d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19049-5409-73b3-bb96-1ca33b78d751",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
